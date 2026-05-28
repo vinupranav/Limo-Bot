@@ -12,7 +12,13 @@
 ![Gazebo](https://img.shields.io/badge/Simulation-Gazebo-informational)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+<p align="center">
+  <img src="assets/limo.gif" width="80%" />
+</p>
+
+
 > **Fully autonomous infrastructure inspection robot** — real-time 2D LiDAR SLAM, 3D depth mapping, YOLOv8-based pothole detection with precise area estimation, and autonomous navigation on NVIDIA Jetson edge hardware.
+
 
 ---
 
@@ -23,17 +29,6 @@ LimoBot is a fully autonomous inspection robot built on the LIMO mobile platform
 The system operates **end-to-end without human intervention**, autonomously navigating real-world environments, detecting and measuring all potholes, and generating a complete infrastructure inspection report.
 
 > 🔒 **Source code will be made open-source following paper publication. Demo videos below.**
-
----
-
-## 🎬 Demo Videos
-
-| Demo | Link |
-|---|---|
-| Full Autonomous Inspection Run | Coming Soon |
-| Pothole Detection Pipeline | Coming Soon |
-| 2D SLAM & 3D Mapping | Coming Soon |
-| Gazebo Simulation | Coming Soon |
 
 ---
 
